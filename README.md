@@ -20,7 +20,7 @@ Feel free to reach out 💬
 <p align="center">
 
 <a href="https://www.linkedin.com/in/gustavog007/">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
 </a>
 
 <a href="https://platzi.com/p/tavogus007/">
