@@ -21,17 +21,33 @@ Feel free to reach out 💬
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/TU-LINKEDIN">
+<a href="https://www.linkedin.com/in/gustavog007/">
 <img src="https://cdn.simpleicons.org/linkedin" width="40"/>
 </a>
 
 <a href="https://platzi.com">
-<img src="https://cdn.simpleicons.org/platzi" width="40"/>
+<img src="https://platzi.com/p/tavogus007/" width="40"/>
 </a>
 
 <a href="https://scrimba.com">
-<img src="https://cdn.simpleicons.org/scrimba" width="40"/>
+<img src="https://scrimba.com/@tavogus007:certs" width="40"/>
 </a>
+
+</p>
+
+
+<h2 align="center">Tech Stack</h2>
+
+<p align="center">
+
+<img src="https://cdn.simpleicons.org/typescript" width="40"/>
+<img src="https://cdn.simpleicons.org/javascript" width="40"/>
+<img src="https://cdn.simpleicons.org/vue.js" width="40"/>
+<img src="https://cdn.simpleicons.org/angular" width="40"/>
+<img src="https://cdn.simpleicons.org/nestjs" width="40"/>
+<img src="https://cdn.simpleicons.org/n8n" width="40"/>
+<img src="https://cdn.simpleicons.org/postgresql" width="40"/>
+<img src="https://cdn.simpleicons.org/mysql" width="40"/>
 
 </p>
 </div>
