@@ -1,4 +1,4 @@
-![alt README header](https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/header.png)
+![banner](assets/banner.png)
 
 ## Web Developer (JS, NodeJS & Python)
 
