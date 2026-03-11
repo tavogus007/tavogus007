@@ -23,12 +23,12 @@ Feel free to reach out 💬
 <img src="https://cdn.simpleicons.org/linkedin" width="40"/>
 </a>
 
-<a href="https://platzi.com">
-<img src="https://platzi.com/p/tavogus007/" width="40"/>
+<a href="https://platzi.com/p/tavogus007/">
+<img src="https://cdn.simpleicons.org/platzi" width="40"/>
 </a>
 
-<a href="https://scrimba.com">
-<img src="https://scrimba.com/@tavogus007:certs" width="40"/>
+<a href="https://scrimba.com/@tavogus007:certs">
+<img src="https://cdn.simpleicons.org/scrimba" width="40"/>
 </a>
 
 </p>
